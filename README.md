@@ -1,5 +1,6 @@
 <h1 style="text-align: center; font-size: 20px">Hi, I'm Muhammad Khairul Kholqi 🦦</h1>
 <p style="text-align: center;">Just an ordinary human being!!</p>
+<img src="22.jpg" alt="" style="width: 300px;">
 <ul style="margin-top: 50px;">
     <li style="list-style: none;">
         🏫 Frontend Developer, studying at <a href="https://smkwikrama.sch.id/">SMK WIKRAMA BOGOR</a>
@@ -15,11 +16,3 @@
         <a href="https://github.com/Muhammad-Khairul-Kholqi"><img src="github.png" alt="" style="width: 20px;"></a>
     </li>
 </ul>
-
-
-
-<div style="display: flex;">
-    <img src="" alt="">
-    <img src="" alt="">
-    <img src="" alt="">
-</div>
