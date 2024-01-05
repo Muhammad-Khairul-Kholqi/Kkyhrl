@@ -1,10 +1,9 @@
-<h1 style="text-align: center; font-size: 20px">Hi, I'm Muhammad Khairul Kholqi 🦦</h1>
-<p style="text-align: center;">Just an ordinary human being!!</p>
+<h1 style="align: center; font-size: 20px">Hi, I'm Muhammad Khairul Kholqi 🦦</h1>
+<p style="align: center;">Just an ordinary human being!!</p>
 <ul style="margin-top: 50px;">
     <li>
         🏫 Frontend Developer, studying at <a href="https://smkwikrama.sch.id/">SMK WIKRAMA BOGOR</a>
     </li>
-    <br>
     <li>
         👨‍💻 You can also check out my portfolio at <a href="https://khrlkholqiportfoliooo.netlify.app">khrlkholqiportfoliooo</a>
     </li>
