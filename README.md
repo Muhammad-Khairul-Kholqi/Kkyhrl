@@ -16,3 +16,4 @@
         <a href="https://github.com/Muhammad-Khairul-Kholqi"><img src="github.png" alt="" style="width: 20px;"></a>
     </li>
 </ul>
+<img src="language.png" alt="" style="width: 300px;">
